@@ -1,4 +1,4 @@
-#Responsive design and Platform specific
+Responsive design and Platform specific
 
 Dimensions
 Platform.select()
